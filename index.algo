@@ -1,0 +1,15 @@
+FUNCTION Insertion (tab ARRAY OF INTEGER, ) : INTEGER
+VAR
+    i, j, sum= INTEGER
+BEGIN
+  n= Tab.length
+    FOR j FROM 0 TO n-1 STEP step 1  DO
+        FOR i FROM 0 TO n-2 STEP step 1
+       sum = arr[i];
+       j = i - 1; 
+       while (j >= 0 && arr[j])
+
+
+    END_FOR
+END
+
